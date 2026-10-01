@@ -176,6 +176,17 @@
   color: var(--pf-text-muted);
 }
 
+.sample-fill-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.sample-dropdown-wrapper {
+  width: 240px;
+}
+
 .back-button,
 .finish-button {
   display: flex;
