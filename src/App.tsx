@@ -423,8 +423,7 @@ export default function App(): JSX.Element {
     return (
       <div className="home-container">
         <div className="home-intro">
-          <span className="home-eyebrow">PDF Workspace</span>
-          <h1 className="home-title">PDF Form Center</h1>
+          <h1 className="home-title">Healthcare PDF Viewer Form Management</h1>
           <p className="home-subtitle">
             Choose a predefined form to fill, or design your own fillable PDF template from scratch.
           </p>
