@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@syncfusion/ej2-react-buttons": "^35.1.37",
+    "@syncfusion/ej2-react-dropdowns": "^35.1.37",
     "@syncfusion/ej2-react-pdfviewer": "^35.1.37",
     "@syncfusion/ej2-tailwind3-theme": "^35.1.37",
     "react": "^19.2.8",
